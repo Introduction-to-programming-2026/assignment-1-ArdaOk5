@@ -1,0 +1,1 @@
+/usr/bin/clang -lcs50 -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/operators.dir/src/02_operators.c.o -o operators

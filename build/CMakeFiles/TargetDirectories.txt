@@ -1,0 +1,8 @@
+/Users/ardaok/Desktop/assignment-1-ArdaOk5/build/CMakeFiles/datatypes.dir
+/Users/ardaok/Desktop/assignment-1-ArdaOk5/build/CMakeFiles/operators.dir
+/Users/ardaok/Desktop/assignment-1-ArdaOk5/build/CMakeFiles/conditionals.dir
+/Users/ardaok/Desktop/assignment-1-ArdaOk5/build/CMakeFiles/loops.dir
+/Users/ardaok/Desktop/assignment-1-ArdaOk5/build/CMakeFiles/cmd.dir
+/Users/ardaok/Desktop/assignment-1-ArdaOk5/build/CMakeFiles/magic.dir
+/Users/ardaok/Desktop/assignment-1-ArdaOk5/build/CMakeFiles/edit_cache.dir
+/Users/ardaok/Desktop/assignment-1-ArdaOk5/build/CMakeFiles/rebuild_cache.dir
